@@ -1,7 +1,8 @@
 #ifndef GUARD_CONSTANTS_BATTLE_CONFIG_H
 #define GUARD_CONSTANTS_BATTLE_CONFIG_H
-
+/*
 // Species with peculiar battle effects. Remove them if they're properly placed in constant/species.h
+
 #define SPECIES_DIALGA 0
 #define SPECIES_PALKIA 0
 #define SPECIES_GIRATINA 0
@@ -46,6 +47,7 @@
 #define ITEM_ROWAP_BERRY 201
 #define ITEM_KEE_BERRY 202
 #define ITEM_MARANGA_BERRY 203
+*/
 
 #define GEN_3 0
 #define GEN_4 1
